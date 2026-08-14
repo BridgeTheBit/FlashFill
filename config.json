@@ -1,0 +1,27 @@
+{
+    "source_language": "Spanish",
+    "target_language": "Persian",
+    "provider": "mock",
+    "api_key": "",
+    "openrouter_model": "google/gemma-3-27b-it:free",
+    "trigger_field": "Front",
+    "field_mapping": {
+        "translation": "Translation",
+        "english": "English",
+        "pronunciation": "Pronunciation",
+        "part_of_speech": "Part of Speech",
+        "gender": "Gender",
+        "example": "Example",
+        "example_translation": "Example Translation",
+        "cefr": "CEFR",
+        "notes": "Notes"
+    },
+    "audio_enabled": true,
+    "audio_provider": "mock",
+    "audio_field": "Audio",
+    "image_enabled": true,
+    "image_provider": "mock",
+    "image_api_key": "",
+    "image_field": "Image",
+    "preview_enabled": true
+}
